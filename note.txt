@@ -1,0 +1,6 @@
+مش شغالين معايا حاولت علي قد ما اقدر 
+7- Ensure that users can only edit or delete (soft delete) their
+posts.
+
+9- Special endpoint to get a specific user with a specific post and 
+post’s comments.
