@@ -9,7 +9,7 @@ const app = express();
 const port = process.env.PORT||3000;
 
 app.use(express.json());
-app.usr(cors());
+app.use(cors());
 connectionDB();
 
 // Register routes
